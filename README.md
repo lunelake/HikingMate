@@ -14,6 +14,7 @@ HikingMate는 Open AI를 사용하고 대화를 통해 사용자가 하이킹 �
 시작 프로그램을 `HikingMate.WebApp`으로 놓고 실행하면 됩니다.
 
 
+https://github.com/user-attachments/assets/251aaf5f-bb62-450e-99cf-4fa57ee6bcda
 
 
 **해볼 수 있는 질문들**
